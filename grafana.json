@@ -1,0 +1,17 @@
+{
+  "influx": {
+    "url": "http://localhost:8086",
+    "token": "SU6MP8xKOcpe9ObnGpsHlSYvnxzEhfcQQzFjdOYYCkemA2Vg5h29eMHQKq1WWv45bTIOrIfIJVaQAFUPJsYiaQ==",
+    "org": "Communicaciones AD",
+    "bucket": "sensores"
+  },
+  "mqtt": {
+    "broker": "broker.hivemq.com",
+    "port": 1883,
+    "topic": "grupo3/sensores"
+  },
+  "telegram": {
+    "token": "7643367023:AAFO0fu-udaLZxs6DpneCxbiEw536ZZOSEM",
+    "chat_id": "1849231301"
+  }
+}
